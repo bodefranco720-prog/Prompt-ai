@@ -1,0 +1,15 @@
+{
+  "short_name": "PromptForge",
+  "name": "PromptForge AI - Professional AI Prompt Generator",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "display": "standalone"
+}

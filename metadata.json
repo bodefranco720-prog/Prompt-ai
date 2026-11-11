@@ -1,0 +1,6 @@
+{
+  "name": "PromptForge AI",
+  "description": "An advanced AI Prompt Generator platform for creating high-quality prompts for Web, Image, Video, and Business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
